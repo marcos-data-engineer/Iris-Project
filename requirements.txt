@@ -1,0 +1,19 @@
+# Data manipulation and analysis
+pandas==1.5.3
+
+# Data visualization
+matplotlib==3.6.2
+seaborn==0.12.1
+
+# Machine learning
+scikit-learn==1.2.0
+
+# Jupyter Notebook for interactive analysis
+notebook==6.5.2
+
+### Explanation of Libraries
+- **`pandas`**: For data manipulation and analysis, including loading and processing the Iris dataset.
+- **`matplotlib`**: For creating static, interactive, and animated visualizations in Python.
+- **`seaborn`**: For statistical data visualization, providing a high-level interface for drawing attractive and informative graphics.
+- **`scikit-learn`**: A powerful library for machine learning, used for implementing the decision tree classifier and other machine learning algorithms.
+- **`notebook`**: To run Jupyter Notebooks for interactive data analysis.
