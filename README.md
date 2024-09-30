@@ -36,8 +36,8 @@ This project performs exploratory analysis and applies a decision tree algorithm
 ```
 ├── README.md
 ├── main.py
-└── data
-    └── iris.csv
+├── requirements.txt
+├── LICENSE
 ```
 
 ## 🛠️ How to Run
